@@ -1,1 +1,1 @@
-# Insertion-Sort-Advanced-Analysis-algo
+# Insertion-Sort-Advanced-Analysis-algo The function simulates the insertion sort algorithm and counts how many element shifts occur during sorting. Each time an element is moved to make space for a smaller one, the shifts counter increases, representing the total number of movements needed to sort the array.
